@@ -1,0 +1,25 @@
+body {
+  color: #024249;
+  margin: 0;
+  padding: 0;
+  /* background-color: #8566aa; */
+  background: linear-gradient(168deg, #f6acc8 70%, #16c9f6 30%);
+  height: 100vh;
+  overflow-y: hidden;
+}
+#login .container #login-row #login-column #login-box {
+  margin-top: 60px;
+  max-width: 600px;
+  height: 320px;
+  border: 1px solid #faf2f2;
+  background-color: #b4f2e1;
+  color: #024249 !important;
+}
+#login .container #login-row #login-column #login-box #login-form {
+  /* color: #fa9191 !important; */
+  padding: 70px;
+}
+#login img{
+  border-radius: 100%;
+  margin-left: auto;
+}
